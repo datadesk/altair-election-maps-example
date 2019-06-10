@@ -5,6 +5,7 @@ dependencies:
   - python=3.7
   - geopandas
   - altair
+  - jenkspy
   - pip
   - pip:
     - altair-latimes
