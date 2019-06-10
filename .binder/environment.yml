@@ -1,0 +1,9 @@
+name: election-maps-latimes
+channels:
+  - conda-forge
+dependencies:
+  - geopandas
+  - altair
+  - pip
+  - pip:
+    - altair_latimes
