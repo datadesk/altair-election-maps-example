@@ -1,4 +1,4 @@
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/chekos/altair-election-maps-example/master?urlpath=lab)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/chekos/altair-election-maps-example/master?urlpath=lab%2Ftree%2Fnotebook.ipynb)
 
 # altair-election-maps-example
 
