@@ -2,8 +2,9 @@ name: election-maps-latimes
 channels:
   - conda-forge
 dependencies:
+  - python=3.7
   - geopandas
   - altair
   - pip
   - pip:
-    - altair_latimes
+    - altair-latimes
